@@ -13,3 +13,6 @@ Sem 6, Batch of 2022
 [EXP 8:  SMTP](https://github.com/vasanthkumar18/Networks_Lab/tree/main/EXP%208)<br/>
 [EXP 9:  Local DNS Sever](https://github.com/vasanthkumar18/Networks_Lab/tree/main/EXP%209)<br/>
 [EXP 10:  Access Points](https://github.com/vasanthkumar18/Networks_Lab/tree/main/EXP%2010)<br/>
+
+
+![img](https://media.gcflearnfree.org/content/55e07819bae0135431cfdcc3_12_17_2013/Networking_image.jpg)
