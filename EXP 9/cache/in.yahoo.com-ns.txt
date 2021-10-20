@@ -1,0 +1,14 @@
+Server:		ns5.yahoo.com.
+Address:	202.165.97.53#53
+
+Non-authoritative answer:
+in.yahoo.com	canonical name = atsv2-fp-shed.wg1.b.yahoo.com.
+
+Authoritative answers can be found from:
+yahoo.com	nameserver = ns3.yahoo.com.
+yahoo.com	nameserver = ns4.yahoo.com.
+yahoo.com	nameserver = ns1.yahoo.com.
+yahoo.com	nameserver = ns2.yahoo.com.
+yahoo.com	nameserver = ns5.yahoo.com.
+ns3.yahoo.com	internet address = 27.123.42.42
+

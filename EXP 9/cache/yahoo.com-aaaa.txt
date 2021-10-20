@@ -1,0 +1,16 @@
+Server:		ns1.yahoo.com.
+Address:	68.180.131.16#53
+
+Name:	yahoo.com
+Address: 2001:4998:124:1507::f001
+Name:	yahoo.com
+Address: 2001:4998:24:120d::1:1
+Name:	yahoo.com
+Address: 2001:4998:44:3507::8000
+Name:	yahoo.com
+Address: 2001:4998:124:1507::f000
+Name:	yahoo.com
+Address: 2001:4998:44:3507::8001
+Name:	yahoo.com
+Address: 2001:4998:24:120d::1:0
+

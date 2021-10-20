@@ -1,0 +1,15 @@
+Server:		ns-378.awsdns-47.com.
+Address:	205.251.193.122#53
+
+Non-authoritative answer:
+in.reddit.com	canonical name = reddit.map.fastly.net.
+
+Authoritative answers can be found from:
+reddit.com	nameserver = ns-557.awsdns-05.net.
+reddit.com	nameserver = ns-1029.awsdns-00.org.
+reddit.com	nameserver = ns-1887.awsdns-43.co.uk.
+reddit.com	nameserver = ns-378.awsdns-47.com.
+reddit.map.fastly.net	internet address = 151.101.157.140
+ns-1029.awsdns-00.org	internet address = 205.251.196.5
+ns-378.awsdns-47.com	internet address = 205.251.193.122
+

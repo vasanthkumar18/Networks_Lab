@@ -1,0 +1,14 @@
+Server:		ns5.registry.in.
+Address:	156.154.100.20#53
+
+Non-authoritative answer:
+www.nitc.ac.in	canonical name = cnet.nitc.ac.in.
+
+Authoritative answers can be found from:
+ac.in	nameserver = ns3.registry.in.
+ac.in	nameserver = ns4.registry.in.
+ac.in	nameserver = ns1.registry.in.
+ac.in	nameserver = ns2.registry.in.
+ac.in	nameserver = ns6.registry.in.
+ac.in	nameserver = ns5.registry.in.
+

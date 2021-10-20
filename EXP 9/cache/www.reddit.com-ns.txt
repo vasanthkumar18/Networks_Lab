@@ -1,0 +1,5 @@
+Server:		ns-557.awsdns-05.net.
+Address:	205.251.194.45#53
+
+www.reddit.com	canonical name = reddit.map.fastly.net.
+

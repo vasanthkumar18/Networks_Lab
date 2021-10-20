@@ -1,0 +1,8 @@
+Server:		ns-557.awsdns-05.net.
+Address:	205.251.194.45#53
+
+reddit.com	nameserver = ns-1029.awsdns-00.org.
+reddit.com	nameserver = ns-1887.awsdns-43.co.uk.
+reddit.com	nameserver = ns-378.awsdns-47.com.
+reddit.com	nameserver = ns-557.awsdns-05.net.
+

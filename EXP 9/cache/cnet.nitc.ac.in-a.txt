@@ -1,0 +1,6 @@
+Server:		dns.nitc.ac.in.
+Address:	14.139.185.117#53
+
+Name:	cnet.nitc.ac.in
+Address: 14.139.185.121
+

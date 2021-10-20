@@ -1,0 +1,10 @@
+Server:		ns2.yahoo.com.
+Address:	68.142.255.16#53
+
+Non-authoritative answer:
+in.yahoo.com	canonical name = atsv2-fp-shed.wg1.b.yahoo.com.
+Name:	atsv2-fp-shed.wg1.b.yahoo.com
+Address: 202.165.107.50
+Name:	atsv2-fp-shed.wg1.b.yahoo.com
+Address: 202.165.107.49
+

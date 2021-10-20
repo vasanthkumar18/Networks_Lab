@@ -1,0 +1,5 @@
+Server:		ebox.nitc.ac.in.
+Address:	14.139.185.118#53
+
+*** Can't find cnet.nitc.ac.in: No answer
+

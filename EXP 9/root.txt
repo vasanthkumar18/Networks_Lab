@@ -1,0 +1,20 @@
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+.	nameserver = m.root-servers.net.
+.	nameserver = l.root-servers.net.
+.	nameserver = k.root-servers.net.
+.	nameserver = j.root-servers.net.
+.	nameserver = i.root-servers.net.
+.	nameserver = h.root-servers.net.
+.	nameserver = g.root-servers.net.
+.	nameserver = f.root-servers.net.
+.	nameserver = e.root-servers.net.
+.	nameserver = d.root-servers.net.
+.	nameserver = c.root-servers.net.
+.	nameserver = b.root-servers.net.
+.	nameserver = a.root-servers.net.
+
+Authoritative answers can be found from:
+

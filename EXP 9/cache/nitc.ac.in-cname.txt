@@ -1,0 +1,5 @@
+Server:		cncdns.nitc.ac.in.
+Address:	14.139.185.116#53
+
+** server can't find nitc.ac.in: REFUSED
+

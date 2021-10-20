@@ -1,0 +1,5 @@
+Server:		ns-557.awsdns-05.net.
+Address:	205.251.194.45#53
+
+*** Can't find reddit.com: No answer
+

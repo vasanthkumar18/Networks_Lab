@@ -1,0 +1,6 @@
+Server:		dns.nitc.ac.in.
+Address:	14.139.185.117#53
+
+nitc.ac.in	nameserver = dns.nitc.ac.in.
+nitc.ac.in	nameserver = ebox.nitc.ac.in.
+
